@@ -1,0 +1,155 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "switchMount": "cherry",
+    "switchBrand": "aula"
+  },
+  [
+    {
+      "a": 5
+    },
+    "`\n~\n\n\n\n\nTab",
+    "1\n!\n\n\n\n\nQ",
+    "2\n@\n\n\n\n\nW",
+    "3\n#\n\n\n\n\nE",
+    "4\n$\n\n\n\n\nR",
+    "5\n%\n\n\n\n\nT",
+    "6\n^\n\n\n\n\nY",
+    "7\n&\n\n\n\n\nU",
+    "8\n*\n\n\n\n\nI",
+    "9\n(\n\n\n\n\nO",
+    "0\n)\n\n\n\n\nP",
+    {
+      "a": 7
+    },
+    "Back"
+  ],
+  [
+    {
+      "a": 5,
+      "fa": [
+        1,
+        1
+      ]
+    },
+    "Del\nDel\n\n\nCtrl\n\nEsc",
+    "F1\nF1\n\n\n\n\nA",
+    "F2\nF2\n\n\n\n\nS",
+    "F3\nF3\n\n\n\n\nD",
+    "F4\nF4\n\n\n\n\nF",
+    "F5\nF5\n\n\n\n\nG",
+    "F6\nF6\n\n\n\n\nH",
+    {
+      "fa": [
+        1
+      ]
+    },
+    "_\n-\n\n\n\n\nJ",
+    {
+      "f": 3
+    },
+    "=\n+\n\n\n\n\nK",
+    {
+      "fa": [
+        1,
+        1
+      ]
+    },
+    "Home\n{\n\n\n\n\nL",
+    "End\n}\n\n\n\n\n;",
+    {
+      "fa": [
+        1
+      ]
+    },
+    "\\\n|\n\n\n\n\n'"
+  ],
+  [
+    {
+      "a": 7,
+      "f": 3
+    },
+    "Shift",
+    {
+      "a": 5,
+      "fa": [
+        1,
+        1
+      ]
+    },
+    "F7\nF7\n\n\n\n\nZ",
+    "F8\nF8\n\n\n\n\nX",
+    "F9\nF9\n\n\n\n\nC",
+    "F10\nF10\n\n\n\n\nV",
+    "F11\nF11\n\n\n\n\nB",
+    "F12\nF12\n\n\n\n\nN",
+    {
+      "a": 7,
+      "f": 3
+    },
+    "M",
+    {
+      "f": 3
+    },
+    ",",
+    {
+      "a": 5
+    },
+    "PgUp\n[\n\n\n\n\n.",
+    "PgDn\n]\n\n\n\n\n/",
+    {
+      "a": 7
+    },
+    "Enter\n\n\n\nShift"
+  ],
+  [
+    "Oryx\n\n\n\nnumpad",
+    "Ctrl",
+    "OS",
+    "Alt",
+    "&dArr;",
+    {
+      "w": 2
+    },
+    "",
+    "&uArr;",
+    {
+      "a": 5,
+      "fa": [
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        4
+      ]
+    },
+    "<i class='fa fa-step-forward'></i>\n<i class='kb kb-Multimedia-Mute-2'></i>\n\n\n\n\n&larr;",
+    "\n<i class='fa fa-volume-down'></i>\n\n\n\n\n&darr;",
+    {
+      "fa": [
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "\n<i class='kb kb-Multimedia-FastForward-End'></i>\n\n\n\n\n&uarr;",
+    {
+      "fa": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "\n<i class='fa fa-play'></i>\n\n\n\n\n&rarr;"
+  ]
+]

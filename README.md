@@ -6,4 +6,4 @@
 
 ### Current Layout:
 
-![!](docs/layout.webp)
+![!](docs/planck_ez_layout.webp)
