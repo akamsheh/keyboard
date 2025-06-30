@@ -1,9 +1,6 @@
 # Keyboard Fun
 
-## Planck EZ
+## [Planck EZ](planck_ez/README.md)
 
-### [ReadMe](#planck-ez)
+## Iris Rev 8
 
-### Current Layout: (Shown: Layer 0,1,2)
-
-![!](docs/planck_ez_layout.webp)
